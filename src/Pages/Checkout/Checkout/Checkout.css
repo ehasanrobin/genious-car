@@ -1,0 +1,10 @@
+form.order-form input {
+    display: block;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+form.order-form {
+    margin-top: 20px;
+}
